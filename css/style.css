@@ -148,6 +148,18 @@ a.btn.btn-secondary.btn-lg {
 }
 
 .cor {
-  color: yellow;
+  color: white;
   text-shadow: red 2px 5px 5px;
+}
+
+.sec .content {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  background-color: #00CCAB;
+  color: black;
+}
+
+.linhaa{
+  background-color: #00CCAB;
 }
