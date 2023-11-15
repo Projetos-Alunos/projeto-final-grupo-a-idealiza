@@ -222,7 +222,7 @@ ol li {
 }
 .btn-common:hover {
   color: #fff;
-  background: #;
+  background: #f50057;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
